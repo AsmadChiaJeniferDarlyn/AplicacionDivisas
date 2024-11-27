@@ -1,4 +1,4 @@
-# 🌍 Currency Converter - Android App 💱
+# 🌍 Cambio de Divisas - Android App 💱
 
 ## Descripción
 
