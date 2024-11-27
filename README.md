@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**Currency Converter** es una app simple para convertir divisas en tiempo real, hecha para Android. Solo tienes que elegir las monedas y la app te dará la conversión al instante. ¡Fácil y rápido! 🚀
+**Cambio de Divisas** es una app simple para convertir divisas en tiempo real, hecha para Android. Solo tienes que elegir las monedas y la app te dará la conversión al instante. ¡Fácil y rápido! 🚀
 
 ## Características
 
