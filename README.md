@@ -21,4 +21,4 @@
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/currency-converter-android.git
+   git clone https://github.com/AsmadChiaJeniferDarlyn/AplicacionDivisas/tree/master
