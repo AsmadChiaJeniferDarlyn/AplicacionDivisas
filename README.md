@@ -14,7 +14,6 @@
 ## Tecnologías
 
 - 🖥 **Kotlin** para el desarrollo.
-- 📡 **API externa** para obtener las tasas de cambio.
 
 ## Instalación
 
